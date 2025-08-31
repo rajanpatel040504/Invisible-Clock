@@ -4,12 +4,6 @@ This is a fun Python project that simulates a **Harry Potter-style invisible clo
 
 ---
 
-## 📸 Demo Preview
-
-> ❗ Since this is a real-time computer vision project, a live demo isn't possible in this file. To see the effect, run it locally on your system using a webcam.
-
----
-
 ## 🛠️ Features
 
 - Real-time invisibility effect using webcam feed.
